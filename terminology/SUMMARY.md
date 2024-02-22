@@ -1,3 +1,7 @@
 # Table of contents
 
-* [DDLG](README.md)
+* [Где я?](README.md)
+
+## 📚 Терминология <a href="#terminology" id="terminology"></a>
+
+* [DDLG](terminology/ddlg.md)

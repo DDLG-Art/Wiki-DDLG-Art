@@ -5,6 +5,7 @@
 ## 📚 Терминология <a href="#terminology" id="terminology"></a>
 
 * [BDSM](terminology/bdsm.md)
+* [Pet-Play](terminology/pet-play.md)
 * [CGL](terminology/cgl.md)
 * [DDLG](terminology/ddlg.md)
 

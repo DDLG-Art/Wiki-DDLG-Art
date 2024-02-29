@@ -16,4 +16,4 @@
 
 ***
 
-* [Beariy Diary](https://beariy\_diary.t.me)
+* [🗞️ DDLG Art In Telegram](https://ddlgart.t.me)

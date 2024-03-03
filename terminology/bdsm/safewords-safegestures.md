@@ -1,3 +1,7 @@
+---
+description: Что такое сейфворд или же — стоп-слово?
+---
+
 # Safewords/Safegestures
 
 {% hint style="danger" %}

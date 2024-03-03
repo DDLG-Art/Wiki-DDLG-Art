@@ -1,3 +1,7 @@
+---
+description: Что такое BDSM? Как расшифровывается?
+---
+
 # BDSM
 
 {% hint style="danger" %}

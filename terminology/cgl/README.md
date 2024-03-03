@@ -1,3 +1,7 @@
+---
+description: Что такое CGL?
+---
+
 # CGL
 
 {% hint style="danger" %}

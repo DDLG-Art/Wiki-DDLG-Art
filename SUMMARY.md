@@ -13,6 +13,6 @@
 
 ***
 
-* [🗞️ DDLG Art в Telegram](https://ddlgart.t.me)
+* [🎨 DDLG Art в Telegram](https://ddlgart.t.me)
 * [🍯 Наш тематический блог](https://ddlgart\_honeytales.t.me)
 * [💬 Связаться с нами](https://honey\_cupid.t.me)

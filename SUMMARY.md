@@ -6,14 +6,11 @@
 
 * [BDSM](terminology/bdsm.md)
 * [Pet-Play](terminology/pet-play.md)
-* [CGL](terminology/cgl.md)
-* [DDLG](terminology/ddlg.md)
-
-## 🍼 DDLG
-
-* [Daddy Dom](ddlg/daddy-dom.md)
-* [Little Girl](ddlg/little-girl.md)
+* [CGL](terminology/cgl/README.md)
+  * [DDLG](terminology/cgl/ddlg/README.md)
+    * [Daddy Dom](terminology/cgl/ddlg/daddy-dom.md)
 
 ***
 
-* [🗞️ DDLG Art In Telegram](https://ddlgart.t.me)
+* [🗞️ DDLG Art в Telegram](https://ddlgart.t.me)
+* [💬 Связаться с нами](https://honey\_cupid.t.me)

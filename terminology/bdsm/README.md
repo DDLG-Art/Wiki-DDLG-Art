@@ -1,5 +1,16 @@
 ---
 description: Что такое BDSM? Как расшифровывается?
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # BDSM

@@ -1,5 +1,21 @@
 ---
 description: Что такое сейфворд или же — стоп-слово?
+cover: ../../.gitbook/assets/artwork(66).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Safewords/Safegestures

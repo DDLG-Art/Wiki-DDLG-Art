@@ -69,6 +69,8 @@ _Статья нуждается в большем количестве авто
   2\. \[[https://ru.wikipedia.org/wiki/БДСМ](https://en.wikipedia.org/wiki/BDSM)]
 * Glossary of BDSM, Wikipedia\
   \[[https://en.wikipedia.org/wiki/Glossary\_of\_BDSM](https://en.wikipedia.org/wiki/Glossary\_of\_BDSM)]
+* «What is BDSM?», Nuna Alberts, Everyday Health\
+  \[[https://www.everydayhealth.com/healthy-sex/bdsm/](https://www.everydayhealth.com/healthy-sex/bdsm/)]
 
 #### Упомянутая литература
 

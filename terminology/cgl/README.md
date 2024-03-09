@@ -1,7 +1,7 @@
 ---
 description: Что такое CGL?
 cover: ../../.gitbook/assets/изображение_2024-03-09_171451180.png
-coverY: 194.14525139664804
+coverY: 105.16201117318435
 layout:
   cover:
     visible: true

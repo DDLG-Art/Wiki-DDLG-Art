@@ -6,7 +6,7 @@
 
 * [BDSM](terminology/bdsm/README.md)
   * [Safewords/Safegestures](terminology/bdsm/safewords-safegestures.md)
-* [Pet-Play](terminology/pet-play.md)
+* [Pet Play](terminology/pet-play.md)
 * [CGL](terminology/cgl/README.md)
   * [DDLG](terminology/cgl/ddlg/README.md)
     * [Daddy Dom](terminology/cgl/ddlg/daddy-dom.md)

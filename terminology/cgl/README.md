@@ -1,5 +1,21 @@
 ---
 description: Что такое CGL?
+cover: ../../.gitbook/assets/изображение_2024-03-09_171451180.png
+coverY: 194.14525139664804
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # CGL

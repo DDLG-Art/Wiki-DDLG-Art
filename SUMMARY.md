@@ -10,6 +10,7 @@
 * [CGL](terminology/cgl/README.md)
   * [DDLG](terminology/cgl/ddlg/README.md)
     * [Daddy Dom](terminology/cgl/ddlg/daddy-dom.md)
+  * [Little](terminology/cgl/little.md)
 
 ***
 
